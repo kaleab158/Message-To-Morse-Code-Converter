@@ -50,7 +50,9 @@ All audio file names must exactly match their characters (e.g., `A.mp3`, `B.mp3`
 # Example
 
 Input: "Hi Im Mr Frily"
+
 prosess: convert Each letters Morese code And Add the Mp3 File together With silence Separated Audio;
+
 output: Each File Is Saved Into "Output mp3 " Audio File . New File / New Execution Is Appended In to This Mp3 File 
 
 
